@@ -1,7 +1,7 @@
 # f23wb81kurri
-This is Madhushree Kurri woring on pug
+This is Madhushree Kurri working on pug
 
-[Render server limk]g(https://f23wb81kurri.onrender.com)
+[Render server link]g(https://f23wb81kurri.onrender.com)
 
 Aircraft
 - aircraft_type(string)
