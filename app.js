@@ -7,7 +7,7 @@ var logger = require('morgan');
 var indexRouter = require('./routes/index');
 var usersRouter = require('./routes/users');
 var chooseRouter = require('./routes/choose');
-const aircraftRoute = require('./routes/Aircraft');
+const aircraftRoute = require('./routes/aircraft');
 const boardRouter = require('./routes/board');
 
 
